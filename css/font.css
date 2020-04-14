@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'PT Sans Regular' ;
+    src: url('../fonts/PTS55F.ttf');
+}
+@font-face {
+    font-family: 'PT Sans Italic';
+    src: url('../fonts/PTS56F.ttf');
+}
+@font-face {
+    font-family: 'PT Sans Bold';
+    src: url('../fonts/PTS75F.ttf');
+}
+@font-face {
+    font-family: 'PT Sans Bold Italic';
+    src: url('../fonts/PTS76F.ttf');
+}
+@font-face {
+    font-family: 'Tinos-Bold';
+    src: url('../fonts/Tinos-Bold.ttf');
+}
+@font-face {
+    font-family: 'Tinos-BoldItalic';
+    src: url('../fonts/Tinos-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'Tinos-Italic';
+    src: url('../fonts/Tinos-Italic.ttf');
+}
+@font-face {
+    font-family: 'Tinos-regular';
+    src: url('../fonts/Tinos-regular.ttf');
+}
